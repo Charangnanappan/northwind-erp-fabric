@@ -1,3 +1,5 @@
+# Northwind ERP Sales Intelligence Platform
+### Microsoft Fabric | Medallion Architecture | PySpark | Power BI
 ## Project Overview
 End-to-end data engineering project built entirely on Microsoft Fabric,
 transforming raw Northwind ERP CSV files into a live Power BI dashboard
